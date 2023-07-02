@@ -1,17 +1,11 @@
-## Hey there! 👋
+# Hey there! 👋
 
-### 👨‍💻 Viktor Samuel Podhradský
+I'm Viktor Samuel Podhradský, a Computer Science student at FMFI UK (Faculty of Mathematics, Physics and Informatics, Comenius University). I have a strong passion for math 🧮 and coding 🖥️, constantly seeking new challenges and opportunities to expand my knowledge and skills.
 
-#### *Unlocking the Code of Possibilities*
+- 💡 My love for learning and creating new technologies drives me forward. I thrive on pushing boundaries and exploring innovative solutions to complex problems. With a keen eye for detail, I believe in the power of clean and efficient code.
 
-I'm a Computer Science student at FMFI UK (Faculty of Mathematics, Physics and Informatics, Comenius University) with a burning passion for math 🧮 and coding 🖥️. I thrive on the challenges that come with expanding my knowledge and skills, constantly seeking new opportunities to grow.
+- 📚 When I'm not immersed in coding, you can often find me buried in books, diving into various subjects that intrigue me. I'm a firm believer in continuous self-improvement and strive to stay up-to-date with the latest industry trends and advancements.
 
-- 💡 *Innovation-driven Mindset*: I love learning and creating new technologies. Pushing boundaries and exploring innovative solutions to complex problems is what keeps me going. With a keen eye for detail, I believe in the power of clean and efficient code.
+- ⚽️  I'm not just a fan of intellectual pursuits, though! I'm also a sports enthusiast who finds inspiration in teamwork and collaboration. While I enjoy working with others, I'm equally comfortable taking on challenges solo, leveraging my strong problem-solving skills. Always open to collaborating with others to achieve the best outcomes.
 
-- 📚 *Continuous Learning Advocate*: When I'm not immersed in coding, you'll often find me buried in books, diving into various subjects that intrigue me. Staying up-to-date with the latest industry trends and advancements is a personal commitment I hold dear.
-
-- ⚽️ *Balancing Solo Fortitude and Collaborative Spirit*: As much as I enjoy working independently, tackling tough challenges and relying on my strong problem-solving skills, I'm equally at ease collaborating with others. I find inspiration in teamwork and the collective pursuit of excellence.
-
-Join me on this exciting journey as we unlock the code of possibilities together!
-
-Let's connect and create something amazing. Feel free to reach out and be a part of the adventure! 🚀
+Feel free to join me on my journey as I build exciting projects and explore the vast world of computer science. Let's connect 🤝 and create something amazing together! 🚀
