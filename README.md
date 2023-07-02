@@ -1,4 +1,4 @@
-# Hey there! 👋
+## Hey there! 👋
 
 I'm Viktor Samuel Podhradský, a Computer Science student at FMFI UK (Faculty of Mathematics, Physics and Informatics, Comenius University). I have a strong passion for math 🧮 and coding 🖥️, constantly seeking new challenges and opportunities to expand my knowledge and skills.
 
@@ -8,5 +8,5 @@ I'm Viktor Samuel Podhradský, a Computer Science student at FMFI UK (Faculty of
 
 - ⚽️  I'm not just a fan of intellectual pursuits, though! I'm also a sports enthusiast who finds inspiration in teamwork and collaboration. While I enjoy working with others, I'm equally comfortable taking on challenges solo, leveraging my strong problem-solving skills. Always open to collaborating with others to achieve the best outcomes.
 
-Feel free to join me on my journey as I build exciting projects and explore the vast world of computer science.
+Feel free to join me on my journey as I build exciting projects and explore the vast world of computer science.  
 Let's connect 🤝 and create something amazing together! 🚀
