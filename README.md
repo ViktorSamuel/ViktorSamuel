@@ -11,6 +11,7 @@ I'm Viktor Samuel Podhradský, a Computer Science student at FMFI UK (Faculty of
 Feel free to join me on my journey as I build exciting projects and explore the vast world of computer science.  
 Let's connect 🤝 and create something amazing together! 🚀
 
+---
 
 ## Technologies I Use 🧰
 
