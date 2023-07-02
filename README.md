@@ -12,9 +12,9 @@ Feel free to join me on my journey as I build exciting projects and explore the 
 Let's connect 🤝 and create something amazing together! 🚀
 
 
-## Technologies I Use
+## Technologies I Use  <img src="https://img.icons8.com/color/48/000000/code.png"/>
 
-HTML | CSS | PHP | JavaScript | C/C++ | Java | Python | SQL | Assembly
----- | --- | --- | ---------- | ----- | ---- | ------ | --- | --------
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> | <img src="https://img.icons8.com/color/48/000000/css3.png"/> | <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> | <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> | <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> | <img src="https://img.icons8.com/color/48/000000/python.png"/> | <img src="https://img.icons8.com/color/48/000000/sql.png"/> | <img src="https://img.icons8.com/color/48/000000/assembly.png"/>
+HTML | CSS | PHP | JavaScript | C/C++ | Java | Python | SQL | Assembly | Git
+---- | --- | --- | ---------- | ----- | ---- | ------ | --- | -------- | ---
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> | <img src="https://img.icons8.com/color/48/000000/css3.png"/> | <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> | <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> | <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> | <img src="https://img.icons8.com/color/48/000000/python.png"/> | <img src="https://img.icons8.com/color/48/000000/sql.png"/> | <img src="https://img.icons8.com/color/48/000000/assembly.png"/> | <img src="https://img.icons8.com/color/48/000000/git.png"/>
 
