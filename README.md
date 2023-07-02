@@ -12,7 +12,7 @@ Feel free to join me on my journey as I build exciting projects and explore the 
 Let's connect 🤝 and create something amazing together! 🚀
 
 
-## Technologies I Use  <img src="https://img.icons8.com/color/48/000000/code.png"/>
+## Technologies I Use 🧰
 
 HTML | CSS | PHP | JavaScript | C/C++ | Java | Python | SQL | Assembly | Git
 ---- | --- | --- | ---------- | ----- | ---- | ------ | --- | -------- | ---
