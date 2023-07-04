@@ -15,10 +15,8 @@ Let's connect 🤝 and create something amazing together! 🚀
 
 ## Technologies I Use 🧰
 
-## Technologies I Use 🧰
-
-HTML | CSS | Bootstrap | Tailwind CSS | PHP | JavaScript | C/C++ | Java | Python | SQL | Assembly | Git
-:---: | :---: | :-------: | :----------: | :---: | :--------: | :---: | :--: | :----: | :---: | :------: | :---:
-<center><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></center> | <center><img src="https://img.icons8.com/color/48/000000/css3.png"/></center> | <center><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></center> | <center><img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/></center> | <center><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/></center> | <center><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></center> | <center><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></center> | <center><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></center> | <center><img src="https://img.icons8.com/color/48/000000/python.png"/></center> | <center><img src="https://img.icons8.com/color/48/000000/sql.png"/></center> | <center><img src="https://img.icons8.com/color/48/000000/assembly.png"/></center> | <center><img src="https://img.icons8.com/color/48/000000/git.png"/></center>
+PHP | JavaScript | C/C++ | Java | Python | SQL | Assembly | Git | HTML | CSS | Bootstrap
+--- | ---------- | ----- | ---- | ------ | --- | -------- | --- | ---- | --- | ---------
+<img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> | <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> | <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> | <img src="https://img.icons8.com/color/48/000000/python.png"/> | <img src="https://img.icons8.com/color/48/000000/sql.png"/> | <img src="https://img.icons8.com/color/48/000000/assembly.png"/> | <img src="https://img.icons8.com/color/48/000000/git.png"/> | <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> | <img src="https://img.icons8.com/color/48/000000/css3.png"/> | <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
 
